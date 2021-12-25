@@ -20,7 +20,7 @@ python test.py --phase test --serial_test --name <experiment_name> --dataroot ./
 
 
 
-#以下是原作者的
+# 以下是原作者的
 
 
 This is our PyTorch implementation for ToDayGAN.
