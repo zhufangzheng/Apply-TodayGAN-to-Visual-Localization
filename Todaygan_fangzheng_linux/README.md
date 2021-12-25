@@ -1,3 +1,4 @@
+# ToDayGAN
 
 训练：
 python train.py --name <experiment_name> --dataroot ./datasets/<your_dataset> --n_domains <N> --niter <num_epochs_constant_LR> --niter_decay <num_epochs_decaying_LR>
@@ -19,8 +20,8 @@ python test.py --phase test --serial_test --name <experiment_name> --dataroot ./
 
 
 
-以下是原作者的
-# ToDayGAN
+#以下是原作者的
+
 
 This is our PyTorch implementation for ToDayGAN.
 Code was written by [Asha Anoosheh](https://github.com/aanoosheh) (built upon [ComboGAN](https://github.com/AAnoosheh/ComboGAN))
